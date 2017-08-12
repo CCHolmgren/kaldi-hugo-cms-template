@@ -1,5 +1,5 @@
 +++
 title = "About"
-type = "about"
+type = "page"
 page="/about.html"
 +++
