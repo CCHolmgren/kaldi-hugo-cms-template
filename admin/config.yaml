@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: CCHolmgren/kaldi-hugo-cms-template
+  branch: master # Branch to update
+  publish_mode: editorial_workflow
